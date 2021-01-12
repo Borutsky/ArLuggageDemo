@@ -1,0 +1,92 @@
+<resources>
+
+  <dimen name="default_views_divider_height">8dp</dimen>
+  <dimen name="card_rounded_corners">2dp</dimen>
+  <dimen name="card_elevation">2dp</dimen>
+  <dimen name="trips_card_height">176dp</dimen>
+  <dimen name="trips_card_margin_horizontal">8dp</dimen>
+  <dimen name="trips_card_margin_bottom">4dp</dimen>
+  <dimen name="trips_card_margin_top">4dp</dimen>
+  <dimen name="trips_card_margin">16dp</dimen>
+  <dimen name="trips_card_text_size">16sp</dimen>
+  <dimen name="no_trips_available_text_size">16sp</dimen>
+  <dimen name="no_trips_animated_view_size">160dp</dimen>
+  <dimen name="layover_padding_vertical">20dp</dimen>
+
+  <dimen name="trip_segments_icon_size">48dp</dimen>
+  <dimen name="trip_segments_horizontal_margin">16dp</dimen>
+  <dimen name="trip_segments_line_horizontal_margin">18dp</dimen>
+  <dimen name="trip_segments_line_height">12dp</dimen>
+  <dimen name="trip_segments_line_width">1dp</dimen>
+  <dimen name="trip_segments_large_divider_left_margin">26dp</dimen>
+  <dimen name="trip_segments_mini_card_content_margin">16dp</dimen>
+  <dimen name="trip_segments_mini_card_date_margin">8dp</dimen>
+  <dimen name="trip_segments_mini_card_date_margin_top">4dp</dimen>
+
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+  <dimen name="default_vertical_margin">16dp</dimen>
+  <dimen name="default_vertical_margin_large">36dp</dimen>
+  <dimen name="default_horizontal_margin">8dp</dimen>
+
+  <dimen name="trip_details_cover_height">300dp</dimen>
+  <dimen name="status_bar_padding">0dp</dimen>
+
+  <dimen name="map_collapsed_visible_height">188dp</dimen>
+  <dimen name="map_padding_top">120dp</dimen>
+  <dimen name="map_expanded_bar_height">80dp</dimen>
+  <dimen name="map_bottom_parallax_offset">120dp</dimen>
+
+  <dimen name="map_and_sliding_height">268dp</dimen>
+  <dimen name="con_swipe_refresh_offset">20dp</dimen>
+
+  <dimen name="details_padding">16dp</dimen>
+  <dimen name="layover_padding">8dp</dimen>
+  <dimen name="details_margin">16dp</dimen>
+
+  <dimen name="details_info_marginTop">0dp</dimen>
+
+
+  <!-- New -->
+  <dimen name="divider_height">1dp</dimen>
+
+  <!--Segment information dimensions-->
+  <dimen name="spacing_huge">48dp</dimen>
+  <dimen name="spacing_big">24dp</dimen>
+  <dimen name="spacing_medium">16dp</dimen>
+  <dimen name="spacing_small">8dp</dimen>
+
+  <dimen name="mini_cards_date_layout_mini_width">64dp</dimen>
+
+  <dimen name="status_plain_text_size">16sp</dimen>
+
+  <dimen name="list_item_book_trip_padding_horizontal">5dp</dimen>
+  <dimen name="list_item_book_trip_padding_vertical">12dp</dimen>
+  <dimen name="list_item_book_trip_title_size">16sp</dimen>
+  <dimen name="list_item_book_trip_description_size">14sp</dimen>
+  <dimen name="list_item_book_trip_icon_size">24dp</dimen>
+
+  <dimen name="flight_scheduled_time_top_margin">4dp</dimen>
+
+  <dimen name="flight_segment_info_trip_line_width">43dp</dimen>
+  <dimen name="flight_segment_info_trip_line_container_padding_top">28dp</dimen>
+  <dimen name="flight_segment_info_trip_line_arrival_centered">4dp</dimen>
+
+  <dimen name="transfer_leg_info_details_inlined_padding">4dp</dimen>
+
+  <!--Assist Me dimensions-->
+  <dimen name="assist_me_item_vertical_spacing">8dp</dimen>
+
+  <dimen name="ar_bag_icon_size">40dp</dimen>
+  <dimen name="ar_bag_icon_margin">10dp</dimen>
+  <dimen name="ar_bag_description_container_labels_margin">12dp</dimen>
+  <dimen name="ar_card_margin">20dp</dimen>
+  <dimen name="ar_onboarding_image_size">168dp</dimen>
+  <dimen name="ar_onboarding_image_margin">16dp</dimen>
+  <dimen name="ar_onboarding_button_margin">24dp</dimen>
+  <dimen name="ar_onboarding_image_number_size">36dp</dimen>
+  <dimen name="ar_onboarding_image_number_margin">38dp</dimen>
+  <dimen name="ar_swipe_indicator_width">45dp</dimen>
+  <dimen name="ar_swipe_indicator_height">3dp</dimen>
+
+</resources>

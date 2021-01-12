@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">ArLuggageDemo</string>
+
+    <string name="bam_warningDialog_title_access_denied">Camera access disabled</string>
+    <string name="bam_warningDialog_message_access_denied">%1$s needs access to you camera. Please check your security settings.</string>
+    <string name="ar_bag_scan_screen_title">Scan Your Bag One</string>
+    <string name="ar_bag_onboarding_confirm_button_title">Got it</string>
+    <string name="ar_bag_onboarding_title">Let\'s get started!</string>
+    <string name="ar_bag_onboarding_message_title_one">Find an open space</string>
+    <string name="ar_bag_onboarding_message_title_two">Locate cage</string>
+    <string name="ar_bag_onboarding_message_title_three">Check bag size</string>
+    <string name="ar_bag_onboarding_message_content_one">Point your camera to the ground to detect the floor.</string>
+    <string name="ar_bag_onboarding_message_content_two">Move your camera around to find the cage.</string>
+    <string name="ar_bag_onboarding_message_content_three">Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  Place cage over your bag to see if it fits within approved dimensions.
+  </string>
 </resources>
